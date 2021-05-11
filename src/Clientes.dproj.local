@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/02/21 14:23:41.000.231,=C:\Users\hugo.oliveira\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2020/04/30 15:38:30.000.688,=C:\Users\hugo.oliveira\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2020/05/04 11:22:26.000.101,=C:\Users\hugo.oliveira\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2020/06/09 10:08:04.000.807,=C:\Users\hugo.oliveira\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2020/08/31 18:24:53.000.726,=C:\Users\hugo.oliveira\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2021/05/07 17:36:54.000.459,=C:\Users\hugo.oliveira\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2021/05/07 17:37:36.000.953,C:\BKP_HUGO\Teste\src\uConsultaClientes.pas=C:\Users\hugo.oliveira\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2021/05/07 17:37:36.000.953,C:\BKP_HUGO\Teste\src\uConsultaClientes.dfm=C:\Users\hugo.oliveira\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2021/05/07 17:37:43.000.029,C:\BKP_HUGO\Teste\src\Teste.dproj=C:\Users\hugo.oliveira\Documents\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+    <Transaction>2021/05/07 17:40:11.000.851,=C:\BKP_HUGO\Teste\src\Unit1.pas</Transaction>
+    <Transaction>2021/05/07 17:40:24.000.451,C:\BKP_HUGO\Teste\src\dmConexao.pas=C:\BKP_HUGO\Teste\src\Unit1.pas</Transaction>
+    <Transaction>2021/05/07 17:40:24.000.451,C:\BKP_HUGO\Teste\src\dmConexao.dfm=C:\BKP_HUGO\Teste\src\Unit1.dfm</Transaction>
+    <Transaction>2021/05/07 18:02:31.000.140,=C:\BKP_HUGO\Teste\src\Unit1.pas</Transaction>
+    <Transaction>2021/05/07 18:04:38.000.633,C:\BKP_HUGO\Teste\src\uInterfacedObject.pas=C:\BKP_HUGO\Teste\src\Unit1.pas</Transaction>
+    <Transaction>2021/05/07 18:06:09.000.492,=C:\BKP_HUGO\Teste\src\Unit1.pas</Transaction>
+    <Transaction>2021/05/07 18:06:25.000.969,C:\BKP_HUGO\Teste\src\uFuncoes.pas=C:\BKP_HUGO\Teste\src\Unit1.pas</Transaction>
+    <Transaction>2021/05/07 18:21:40.000.343,=C:\BKP_HUGO\Teste\src\Unit1.pas</Transaction>
+    <Transaction>2021/05/07 18:22:13.000.256,C:\BKP_HUGO\Teste\src\uTelefone.BLL.pas=C:\BKP_HUGO\Teste\src\Unit1.pas</Transaction>
+    <Transaction>2021/05/07 18:36:41.000.598,=C:\BKP_HUGO\Teste\src\Unit1.pas</Transaction>
+    <Transaction>2021/05/07 18:36:50.000.010,C:\BKP_HUGO\Teste\src\uTelefone.DAO.pas=C:\BKP_HUGO\Teste\src\Unit1.pas</Transaction>
+    <Transaction>2021/05/07 20:06:35.000.696,=C:\BKP_HUGO\Teste\src\Unit1.pas</Transaction>
+    <Transaction>2021/05/07 20:06:54.000.231,C:\BKP_HUGO\Teste\src\uEndereco.DAO.pas=C:\BKP_HUGO\Teste\src\Unit1.pas</Transaction>
+    <Transaction>2021/05/07 20:22:43.000.230,=C:\BKP_HUGO\Teste\src\Unit1.pas</Transaction>
+    <Transaction>2021/05/07 20:23:05.000.133,C:\BKP_HUGO\Teste\src\uEndereco.BLL.pas=C:\BKP_HUGO\Teste\src\Unit1.pas</Transaction>
+    <Transaction>2021/05/07 20:30:24.000.198,=C:\BKP_HUGO\Teste\src\Unit1.pas</Transaction>
+    <Transaction>2021/05/07 20:30:36.000.654,C:\BKP_HUGO\Teste\src\uCadastroCliente.pas=C:\BKP_HUGO\Teste\src\Unit1.pas</Transaction>
+    <Transaction>2021/05/07 20:30:36.000.654,C:\BKP_HUGO\Teste\src\uCadastroCliente.dfm=C:\BKP_HUGO\Teste\src\Unit1.dfm</Transaction>
+    <Transaction>2021/05/07 20:42:26.000.529,=C:\BKP_HUGO\Teste\src\Unit2.pas</Transaction>
+    <Transaction>2021/05/07 20:42:38.000.852,C:\BKP_HUGO\Teste\src\uCadastroTelefones.dfm=C:\BKP_HUGO\Teste\src\Unit2.dfm</Transaction>
+    <Transaction>2021/05/07 20:42:38.000.852,C:\BKP_HUGO\Teste\src\uCadastroTelefones.pas=C:\BKP_HUGO\Teste\src\Unit2.pas</Transaction>
+    <Transaction>2021/05/09 21:57:44.000.240,=C:\BKP_HUGO\Teste\src\Unit1.pas</Transaction>
+    <Transaction>2021/05/09 21:58:03.000.639,C:\BKP_HUGO\Teste\src\Unit1.pas=C:\BKP_HUGO\Teste\src\uCliente.DAO.pas</Transaction>
+    <Transaction>2021/05/09 22:28:38.000.584,=C:\BKP_HUGO\Teste\src\Unit1.pas</Transaction>
+    <Transaction>2021/05/09 22:28:57.000.645,C:\BKP_HUGO\Teste\src\Unit1.pas=C:\BKP_HUGO\Teste\src\uCliente.BLL.pas</Transaction>
+    <Transaction>2021/05/10 18:22:04.185,=C:\BKP_HUGO\Teste\src\Unit1.pas</Transaction>
+    <Transaction>2021/05/10 18:22:15.029,C:\BKP_HUGO\Teste\src\uCadastroEnderecos.pas=C:\BKP_HUGO\Teste\src\Unit1.pas</Transaction>
+    <Transaction>2021/05/10 18:22:15.029,C:\BKP_HUGO\Teste\src\uCadastroEnderecos.dfm=C:\BKP_HUGO\Teste\src\Unit1.dfm</Transaction>
+    <Transaction>2021/05/11 00:50:09.609,C:\BKP_HUGO\Teste\src\Clientes.dproj=C:\BKP_HUGO\Teste\src\Teste.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

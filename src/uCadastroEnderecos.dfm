@@ -1,0 +1,198 @@
+object frmCadastroEndereco: TfrmCadastroEndereco
+  Left = 0
+  Top = 0
+  Caption = 'Cadastro de Endere'#231'o'
+  ClientHeight = 135
+  ClientWidth = 517
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  OnShow = FormShow
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 76
+    Top = 8
+    Width = 19
+    Height = 13
+    Caption = 'CEP'
+  end
+  object sbBuscaCEP: TSpeedButton
+    Left = 199
+    Top = 24
+    Width = 23
+    Height = 22
+    Glyph.Data = {
+      36040000424D3604000000000000360000002800000010000000100000000100
+      2000000000000004000000000000000000000000000000000000000000000000
+      0000000000000000000000000000000000000000000000000000000000000000
+      000000000000000000020000000E0B14308329448DFB1D2F58A5000000000000
+      0000000000000000000000000000000000000000000000000000000000000000
+      0000000000020000000E0D1937883C6DB2FF5BB1F9FF325196F4000000000000
+      00000000000100000004000000090000000D0000000F0000000F0000000C0000
+      00070000000E0F1D3C864A7CBCFF73C4FFFF467CC3FF17254485000000000000
+      0002000000081C130F465A3B31BC7C5043F87F5244FF7B4E42FA57382FC11E14
+      1059112142875686C2FF88D0FFFF5186C7FF142343880000000F000000010302
+      02104A332C91946B5DFDC6ACA1FFE4D1C6FFEDDDD2FFE2D0C5FFC0A599FF855C
+      50FF6E6B7EFF98D4F8FF5B8ECBFF152545840000000D00000002000000076046
+      3DA6B39288FFE9DAD0FFDAC0A1FFCBA87AFFC49B66FFCCAA7EFFDCC2A5FFE5D2
+      C6FF9A766AFF736A77FF162747850000000E00000002000000002A201D4AAE88
+      7CFFEFE6DFFFCDA67CFFCDA26BFFE3C28CFFEDD5A2FFE7CD9EFFD3B182FFD0AE
+      88FFE7D5CAFF885F53FF25181464000000070000000000000000755B53ACDFCE
+      C9FFDDC1A8FFC99865FFE8BE83FFE9C388FFEDCA97FFEFD3A7FFF2D9B0FFD5B1
+      87FFDBBEA6FFC5ACA2FF5A3D33C10000000C0000000000000000A9877CE9F8F4
+      F2FFC79873FFDEAB77FFEFCDABFFF0D0B1FFEDC9A1FFECC69AFFEFCFA9FFE9C9
+      A4FFC89B77FFE6D6CEFF7C5448F10000000F0000000000000000C09C90FFFDFD
+      FCFFBE875FFFEDCFB9FFF5DFD2FFF2D6C1FFF1CFB4FFEDC6A4FFECC19BFFEFC8
+      A6FFC08B67FFF1E6DFFF8B6154FF0000000F0000000000000000AF9186E6F9F5
+      F4FFC69474FFE8CDC3FFF9E8E4FFF6DED2FFF3D4C2FFF0CBB2FFEBB78EFFE5B7
+      92FFC59172FFEBDFD9FF866055EE0000000D0000000000000000876F68B0E7D9
+      D4FFE2C6B7FFC89072FFFAEFF2FFF9E7E4FFF6DDD3FFF1C8B2FFEBAF88FFC98E
+      6CFFDCBBAAFFD3C0B7FF6B4F46BC00000009000000000000000026201E36CCAF
+      A7FAFBF8F7FFCF9F88FFC78E72FFE9CDC6FFEDC7B5FFDD9F79FFC88865FFCE9D
+      84FFF5EFEBFFB39387FF2A201D52000000040000000000000000000000036454
+      4F84D9C2BAFFFDFBFAFFE2C6B8FFCB977EFFC08163FFCB977DFFE0C4B4FFFAF6
+      F5FFC9B0A7FF6B564EA700000009000000010000000000000000000000000202
+      020762534D81CEB2A9FAEADDD8FFF9F5F4FFFFFFFFFFF9F5F4FFE9DCD7FFC8AC
+      A2FC62504B900404031000000002000000000000000000000000000000000000
+      000000000003241F1D3486726BADB69B91E6CCADA1FFB99C92E988736CB22822
+      1F3E000000060000000100000000000000000000000000000000}
+    OnClick = sbBuscaCEPClick
+  end
+  object Label2: TLabel
+    Left = 228
+    Top = 8
+    Width = 55
+    Height = 13
+    Caption = 'Logradouro'
+  end
+  object Label3: TLabel
+    Left = 8
+    Top = 48
+    Width = 37
+    Height = 13
+    Caption = 'Numero'
+  end
+  object Label4: TLabel
+    Left = 76
+    Top = 48
+    Width = 28
+    Height = 13
+    Caption = 'Bairro'
+  end
+  object Label5: TLabel
+    Left = 188
+    Top = 48
+    Width = 33
+    Height = 13
+    Caption = 'Cidade'
+  end
+  object Label6: TLabel
+    Left = 411
+    Top = 48
+    Width = 19
+    Height = 13
+    Caption = 'Pa'#237's'
+  end
+  object Label7: TLabel
+    Left = 348
+    Top = 48
+    Width = 13
+    Height = 13
+    Caption = 'UF'
+  end
+  object Label8: TLabel
+    Left = 8
+    Top = 8
+    Width = 33
+    Height = 13
+    Caption = 'Codigo'
+  end
+  object edtCEP: TEdit
+    Left = 76
+    Top = 24
+    Width = 121
+    Height = 21
+    TabOrder = 0
+  end
+  object edtLogradouro: TEdit
+    Left = 228
+    Top = 24
+    Width = 273
+    Height = 21
+    TabOrder = 1
+  end
+  object edtNumero: TEdit
+    Left = 8
+    Top = 64
+    Width = 57
+    Height = 21
+    TabOrder = 2
+  end
+  object edtBairro: TEdit
+    Left = 76
+    Top = 64
+    Width = 106
+    Height = 21
+    TabOrder = 3
+  end
+  object edtCidade: TEdit
+    Left = 188
+    Top = 64
+    Width = 154
+    Height = 21
+    TabOrder = 4
+  end
+  object edtPais: TEdit
+    Left = 411
+    Top = 64
+    Width = 102
+    Height = 21
+    TabOrder = 5
+  end
+  object edtUF: TEdit
+    Left = 348
+    Top = 64
+    Width = 57
+    Height = 21
+    TabOrder = 6
+  end
+  object Button1: TButton
+    Left = 357
+    Top = 104
+    Width = 75
+    Height = 25
+    Caption = 'Cancelar'
+    TabOrder = 7
+    OnClick = Button1Click
+  end
+  object Button2: TButton
+    Left = 438
+    Top = 104
+    Width = 75
+    Height = 25
+    Caption = 'Salvar'
+    TabOrder = 8
+    OnClick = Button2Click
+  end
+  object edtCodigo: TEdit
+    Left = 8
+    Top = 24
+    Width = 57
+    Height = 21
+    ReadOnly = True
+    TabOrder = 9
+  end
+  object ACBrCEP1: TACBrCEP
+    ProxyPort = '8080'
+    ParseText = True
+    WebService = wsViaCep
+    PesquisarIBGE = True
+    Left = 168
+    Top = 96
+  end
+end
